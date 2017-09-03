@@ -1,0 +1,9 @@
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\bin\Debug\SearchApp.exe.config
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\bin\Debug\SearchApp.exe
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\bin\Debug\SearchApp.pdb
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\obj\Debug\SearchApp.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\obj\Debug\SearchApp.Main.resources
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\obj\Debug\SearchApp.Properties.Resources.resources
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\obj\Debug\SearchApp.csproj.GenerateResource.Cache
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\obj\Debug\SearchApp.exe
+C:\Users\Gilberto\Desktop\crowleys area\checkers\admin\SearchApp\SearchApp\obj\Debug\SearchApp.pdb
